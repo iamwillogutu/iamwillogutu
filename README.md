@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @iamwillogutu
+- 👋 Hello, my name is William Ogutu
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html, css, and javascript
 - 💞️ I’m looking to collaborate on frontend web development
 - 📫 How to reach me iamwill.ogutu@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love learning new stuff
 
 <!---
